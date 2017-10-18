@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/e470a63e83456c9653ac62abaed97ba3bf400008/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_02bfe47a91233164cea597474a095f9579d7650f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/4f95983cc1e02f414650fda118b305282ddce637/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_81b635eca09dd454d4076ac22136364876a03ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/be5f7534f238af9e8b183c1972a9097fb22a538c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_46756fe4ba7cbe6dae4111ebfc65fe9fd19ad751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/4cc5a95b162803d522477ca348082c51456538c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_77d26426db1159066eb387dac515c046c713f47f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/b1d1ac5ef6c1a9c059af024093e1b9289e1ac101/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_2f0b8de93791bd3ac1738cbd42f25a086f6ce051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/63ea8cb3fa98c757e3e8c31cd7c0c87198e8528d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_3ddaec58a6cb676594972e2ba64e2af0b612da0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/550070d62033045d907d59bfd8c9017cee2bc954/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_0355d0c93ab52187ed1e627f84bea77a889a8091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_3fde7323d23395fc1db3c2ce6c08b839204c6655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/74ed8b909d2e15731f3de7fbc2690af50ced13ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_869feabe163c21b45a423dfba2800a14a86db190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/fd4c5fdb6206ae315d3ab84814ba99acdf19a7d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_af5baa9817db4b0c3916adebc0b1f7b5ac48ec48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/11a79112364c1ed07e744b34de7b8e4dfa9c8f70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_ced62c6237b5bffd2b44f205f2b1e356334db767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/52e719e1b687213f4602ffc53b24dc9b53e8286a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_27998173d5f98e4eb346bd5d5965507cb25dd76b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/68f9ed043bf4b1a904d8d143fd6dc5e302ad9e72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_4e04172293b83b5148125885167fddb4d7ee19f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/.android/build-cache/25adfec0ab84437173aabb6e4e2df52a8fe731c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/classes_b8b50039163d42b2e9981d50347c7d68c9161497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ahmed-Elkady/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Ahmed-Elkady/Desktop/android/AndroidLab/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_f0a61cdeeee6e1c8125c635152a50747b4f5601f.jar" />
+    </item>
+
+</items>

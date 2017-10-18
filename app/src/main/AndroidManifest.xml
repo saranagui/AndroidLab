@@ -13,9 +13,12 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
+                <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
